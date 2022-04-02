@@ -9,7 +9,7 @@ A new Flutter project.
     State changes, widgets do not
     State informs that framework about a change and the UI is then updated
     initState:
-        get called when a state is built
+        gets called when a State object is built
         is called only once
     setState:
         informs the framework that the internal state has changed
