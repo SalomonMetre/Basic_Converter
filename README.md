@@ -1,10 +1,10 @@
-# basic_converter
+## basic_converter
 
 A new Flutter project.
 
-# What did I learn?
+## What did I learn?
 
-*More about Flutter*
+# More about Flutter
     Stateful widgets
     State changes, widgets do not
     State informs that framework about a change and the UI is then updated
@@ -15,7 +15,7 @@ A new Flutter project.
         informs the framework that the internal state has changed
         then calls build() to redraw the widget on the screen after "killing" the old widget
 
-*Some widgets*
+# Some widgets
     DropDownButton
     items:
         DropDownMenuItem<T>
